@@ -1,5 +1,12 @@
 # agent-message-queue
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-message-queue/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-message-queue/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-message-queue)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-message-queue)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-message-queue)
+
 ## Detailed Description
 
 agent-message-queue is maintained as an industry-grade software project with production-ready engineering practices.  
